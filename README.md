@@ -1,0 +1,3 @@
+O jogo "Dora e a Festa Junina dos Dois Mundos" é uma narrativa interativa onde o jogador acompanha a personagem Dora em uma aventura que mistura o ambiente urbano e rural. O jogo é dividido em diferentes cenas, e o jogador avança clicando na tela para mudar de fase.Durante o jogo, há efeitos visuais como baloes subindo, estrelas piscando, fogos de artifício, bandeirinhas de festa, fogueira e rastros coloridos que acompanham o movimento do mouse, tornando a experiência visualmente interessante.
+
+O jogo utiliza uma mecânica de progressão simples: a cada clique, o jogador avança na história até o final, onde pode recomeçar.
